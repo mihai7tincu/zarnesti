@@ -3,8 +3,18 @@ cabana 260x260x264
 pe colturi, vertical:
 4 grinzi de 10x10 de 250
 
-o fata:
+Wireless
+Digi-CRKN
+vtpnLr3T3U
+
+PLACA:
+260x260x10
+6.76mp
+0.68mc ciment
+
+PERETE:
 2 dulapi de 9x5 de 260
 2 dulapi de 242
 
-placa 260x260x10 = 0.68mc ciment
+2 geamuri de 86x56 de la dedeman
+1 geam de 56x56
